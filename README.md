@@ -1,1 +1,1 @@
-TTD Rehersal with Jest & Enzyme
+TTD Rehearsal with Jest & Enzyme
